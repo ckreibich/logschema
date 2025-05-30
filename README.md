@@ -1,7 +1,7 @@
 # Log Schema Support for Zeek
 
-[![Zeek matrix tests](https://github.com/zeek/logschema/actions/workflows/zeek-matrix.yml/badge.svg)](https://github.com/zeek/logschema/actions/workflows/zeek-matrix.yml)
-[![Zeek nightly build](https://github.com/zeek/logschema/actions/workflows/zeek-nightly.yml/badge.svg)](https://github.com/zeek/logschema/actions/workflows/zeek-nightly.yml)
+[![Zeek matrix tests](https://github.com/ckreibich/logschema/actions/workflows/zeek-matrix.yml/badge.svg)](https://github.com/ckreibich/logschema/actions/workflows/zeek-matrix.yml)
+[![Zeek nightly build](https://github.com/ckreibich/logschema/actions/workflows/zeek-nightly.yml/badge.svg)](https://github.com/ckreibich/logschema/actions/workflows/zeek-nightly.yml)
 
 
 This [Zeek](https://zeek.org) package generates schemas for Zeek's logs.  For
